@@ -2,4 +2,5 @@
 
 curso para aprender sobre los fundamentos de node js
 
-nodemon #nombre_de_archivo
+comando para ejecutar los archivos
+> nodemon #nombre_de_archivo
