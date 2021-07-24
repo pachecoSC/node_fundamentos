@@ -1,0 +1,4 @@
+#archivos con extension txt ignorados
+*.txt
+#los modulos descargados desde npm
+/paquetes/npm/node_modules
