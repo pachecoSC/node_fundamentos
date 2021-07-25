@@ -1,4 +1,11 @@
 #archivos con extension txt ignorados
 *.txt
+#imagenes
+*.png
+*.webp
+*.jpg
+*.jpeg
 #los modulos descargados desde npm
 /paquetes/npm/node_modules
+# modulos utiles
+/paquetes/utiles/node_modules
