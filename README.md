@@ -34,3 +34,8 @@ moment -> para trabajar con fechas
 sharp -> para manejar las imagenes
 
 > npm i sharp
+
+------------
+se agrego herramienta para hacer web scrapping
+
+>npm i puppeteer

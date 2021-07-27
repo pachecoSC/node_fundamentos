@@ -9,3 +9,5 @@
 /paquetes/npm/node_modules
 # modulos utiles
 /paquetes/utiles/node_modules
+# modulos de herramientas > scrappign
+/herramientas/scrapping/node_modules
