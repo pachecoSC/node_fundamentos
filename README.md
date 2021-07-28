@@ -35,7 +35,16 @@ sharp -> para manejar las imagenes
 
 > npm i sharp
 
-------------
+---
+
 se agrego herramienta para hacer web scrapping
 
->npm i puppeteer
+> npm i puppeteer
+
+se agrego una herramienta llamada gulp para automatizar tareas y un servidor
+
+> npm i gulp gulp-server-livereload
+
+se agrego una herramienta llamada electron para pasar webs a app de escritorio.
+
+> npm i electron

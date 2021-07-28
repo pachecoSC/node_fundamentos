@@ -11,3 +11,7 @@
 /paquetes/utiles/node_modules
 # modulos de herramientas > scrappign
 /herramientas/scrapping/node_modules
+# modulos de herrramientas > automatizacion
+/herramientas/automatizacion/node_modules
+# modulos de herramientas > electron
+/herramientas/desktopApp/node_modules
